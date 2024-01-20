@@ -8,3 +8,6 @@ HTML, CSS, and Javascript for Web Developers    by     Johns Hopkins University
 Course 2
 
 Programming with JavaScript (Front End Web Development)     by    Meta   (Facebook)
+
+Course 3
+Version Control by Meta (Facebook)
